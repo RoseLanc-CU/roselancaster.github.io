@@ -26,3 +26,8 @@ https://www.blobmaker.app/
 
 🧠 Skills Developed While Creating This Website  
 HTML, CSS(Grid, Flexbox), Variables CSS, JavaScript DOM, Responsive Web Design.
+
+
+//////
+
+#### I am temporarily using a website I created on webflow as my portfolio website until I complete this project. Thank you!
